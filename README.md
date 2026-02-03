@@ -16,7 +16,7 @@
 
 ### 🧬 Sobre mí (The Human Behind the Code)
 
-> **Founder @ KibbleMixer. Engineering an open-source, WSAVA 2024 compliant calculator. Using React & TypeScript to solve the complex math of mixing wet/dry food, making professional nutrition accessible to every pet owner.**
+> **Founder @ KibbleMixer. Engineering a free-to-use, WSAVA 2024 compliant calculator. Using React & TypeScript to solve the complex math of mixing wet/dry food, making professional nutrition accessible to every pet owner.**
 
 Programo soluciones reales para problemas reales. Mi objetivo es eliminar las "conjeturas" en la nutrición de nuestras mascotas aplicando estándares veterinarios estrictos al código que escribo.
 
@@ -26,14 +26,21 @@ Programo soluciones reales para problemas reales. Mi objetivo es eliminar las "c
 
 <br />
 
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</div>
+
+<br />
+
 ### 📊 Actividad de Ingeniería
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es&count_private=true&v=2026" alt="Estadísticas de Alejandro" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-kibble&layout=compact&theme=minimal&hide_border=true&langs_count=6&v=2026" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Alejandro" />
 </div>
 
 ---
