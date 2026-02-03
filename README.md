@@ -1,7 +1,19 @@
+Aquí tienes el código FINAL, COMPLETO Y ACTUALIZADO.
+
+He realizado los siguientes ajustes estratégicos:
+
+Logo Interno: He cambiado la ruta de la imagen para que use el archivo logo-kibblemixer.png que acabas de subir al repositorio. Ya no depende de tu web, cargará siempre.
+
+Tono Humano: He revisado el texto para que suene a Ingeniero Fundador (directo, técnico y resolutivo) y no a marketing de IA.
+
+Métricas Reparadas: He añadido un parámetro extra a las estadísticas para intentar forzar la actualización de tu nuevo nombre de usuario y he añadido una segunda tarjeta de lenguajes para presumir de TypeScript/React.
+
+Copia y pega esto sustituyendo todo tu archivo actual:
+
+Markdown
 <div align="center">
-  <a href="https://kibblemixer.com">
-    <img src="https://kibblemixer.com/logo.png" width="140" alt="KibbleMixer Logo" />
-  </a>
+  <img src="logo-kibblemixer.png" width="180" alt="KibbleMixer Logo Oficial" />
+  
   <h1>Alejandro Ramírez</h1>
   <p><strong>Founder & Lead Engineer @ KibbleMixer</strong></p>
   
@@ -19,9 +31,9 @@
 
 > **Founder @ KibbleMixer. Engineering an open-source, WSAVA 2024 compliant calculator. Using React & TypeScript to solve the complex math of mixing wet/dry food, making professional nutrition accessible to every pet owner.**
 
-Mi enfoque es puramente científico y transparente: unir la ingeniería de software con los estándares nutricionales veterinarios para eliminar las conjeturas en la alimentación de nuestras mascotas.
+Programo soluciones reales para problemas reales. Mi objetivo es eliminar las "conjeturas" en la nutrición de nuestras mascotas aplicando estándares veterinarios estrictos al código que escribo.
 
-- 🔭 **Focus:** Algoritmos de precisión para etapas de crecimiento (Puppy/Kitten).
+- 🔭 **Focus:** Algoritmos de cálculo calórico exacto (Puppy/Kitten/Adult).
 - 🛡️ **Standard:** WSAVA 2024 & NRC Guidelines.
 - 🔧 **Stack:** React, TypeScript, Vite, TailwindCSS.
 
@@ -30,7 +42,11 @@ Mi enfoque es puramente científico y transparente: unir la ingeniería de softw
 ### 📊 Actividad de Ingeniería
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es" alt="Estadísticas de Alejandro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Alejandro" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-kibble&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
 </div>
 
 ---
