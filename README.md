@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://kibblemixer.com">
+    <img src="https://kibblemixer.com/logo.png" width="140" alt="KibbleMixer Logo" />
+  </a>
+  <h1>Alejandro Ramírez</h1>
+  <p><strong>Founder & Lead Engineer @ KibbleMixer</strong></p>
+  
+  <a href="https://kibblemixer.com">
+    <img src="https://img.shields.io/badge/Website-KibbleMixer.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="KibbleMixer" />
+  </a>
+  <a href="https://es.wikipedia.org/wiki/Usuario:AlejandroAR.92">
+    <img src="https://img.shields.io/badge/Wikipedia-Verified_Identity-black?style=for-the-badge&logo=wikipedia" alt="Wikipedia User" />
+  </a>
+</div>
 
-<!--
-**alejandro-kibble/alejandro-kibble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### 🧬 Sobre mí (The Human Behind the Code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Founder @ KibbleMixer. Engineering an open-source, WSAVA 2024 compliant calculator. Using React & TypeScript to solve the complex math of mixing wet/dry food, making professional nutrition accessible to every pet owner.**
+
+Mi enfoque es puramente científico y transparente: unir la ingeniería de software con los estándares nutricionales veterinarios para eliminar las conjeturas en la alimentación de nuestras mascotas.
+
+- 🔭 **Focus:** Algoritmos de precisión para etapas de crecimiento (Puppy/Kitten).
+- 🛡️ **Standard:** WSAVA 2024 & NRC Guidelines.
+- 🔧 **Stack:** React, TypeScript, Vite, TailwindCSS.
+
+<br />
+
+### 📊 Actividad de Ingeniería
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es" alt="Estadísticas de Alejandro" />
+</div>
+
+---
+
+### 🔗 Verificación de Confianza (E-E-A-T)
+
+Para cumplir con los requisitos de transparencia en temas de salud (YMYL):
+
+- 🌐 **Wikipedia:** [Usuario:AlejandroAR.92](https://es.wikipedia.org/wiki/Usuario:AlejandroAR.92) (Identidad confirmada)
+- 🏠 **Proyecto Oficial:** [KibbleMixer.com](https://kibblemixer.com)
+- 🐙 **GitHub Oficial:** [alejandro-kibble](https://github.com/alejandro-kibble)
+
+---
+<p align="center"><i>"Code for pets, built by humans."</i></p>
