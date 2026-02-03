@@ -29,11 +29,11 @@ Programo soluciones reales para problemas reales. Mi objetivo es eliminar las "c
 ### 📊 Actividad de Ingeniería
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es&count_private=true" alt="Estadísticas de Alejandro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandro-kibble&show_icons=true&theme=minimal&hide_border=true&locale=es&count_private=true&v=2026" alt="Estadísticas de Alejandro" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-kibble&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-kibble&layout=compact&theme=minimal&hide_border=true&langs_count=6&v=2026" alt="Lenguajes más usados" />
 </div>
 
 ---
